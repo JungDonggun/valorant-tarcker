@@ -1,9 +1,10 @@
 import React from 'react';
+import { Button } from 'antd';
 
 const IndexPage: React.FunctionComponent = () => {
   return (
     <div>
-      ㅋㅋ
+      <Button type="primary">Primary Button</Button>
     </div>
   );
 };
