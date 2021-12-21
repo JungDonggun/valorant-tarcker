@@ -1,6 +1,6 @@
 import React from 'react';
-import UIPositionCenter from './UIPositionCenter';
 import { render } from '@testing-library/react';
+import UIPositionCenter from '../components/UI/UIPositionCenter';
 
 it('should render uiPositionCenter', () => {
   render(<UIPositionCenter>
