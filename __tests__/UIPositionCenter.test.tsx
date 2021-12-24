@@ -8,6 +8,5 @@ it('should render uiPositionCenter', () => {
       <h2>test</h2>
     </div>
   </UIPositionCenter>);
-
 });
 

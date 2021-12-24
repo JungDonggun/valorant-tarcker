@@ -1,7 +1,6 @@
 import fetch from 'isomorphic-unfetch';
 import { SERVER } from '../common/urls';
 
-
 export interface ExmapleApiResponseBody {
 }
 
